@@ -18,4 +18,10 @@ sudo systemctl start docker
 sudo usermod -aG docker ubuntu
 
 export PUBLIC_IP=$(curl http://169.254.169.254/latest/meta-data/public-ipv4)
-curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="--write-kubeconfig-mode=644 --tls-san $PUBLIC_IP" sh -
+curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="--write-kubeconfig-mode=644 --tls-san $PUBLIC_IP --disable=traefik " sh -
+
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v1.8.2/deploy/static/provider/cloud/deploy.yaml
+
+
+kubectl create namespace argocd
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
