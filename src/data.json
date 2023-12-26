@@ -1,0 +1,252 @@
+{
+    "algebra": {
+      "foundation": [
+        {
+          "exercise": "Solving Linear Equations and Inequalities",
+          "concepts": [
+            "Linear equations in one variable",
+            "Linear equations in two variables",
+            "Using linear equations to evaluate expressions",
+            "Linear inequalities that do not require reversing the inequality sign",
+            "Linear inequalities that require reversing the inequality sign",
+            "Creating an equation with no solutions",
+            "Creating an equation with infinitely many solutions"
+          ]
+        },
+        {
+          "exercise": "Linear Equation Word problems",
+          "concepts": [
+            "Linear Equation Word problems: How do we translate word problems into linear equations?",
+            "Linear equations in slope-intercept form",
+            "Linear functions: Slope-Intercept Form",
+            "Linear functions: Standard Form"
+          ]
+        },
+        {
+          "exercise": "Linear Relationship Word problems",
+          "concepts": [
+            "Linear Relationship Word problems: How do we translate word problems into linear equations?",
+            "Linear equations in slope-intercept form",
+            "Linear functions: Slope Intercept Form",
+            "Linear functions: Standard Form"
+          ]
+        },
+        {
+          "exercise": "Graphs Of Linear Equations and Functions",
+          "concepts": [
+            "Features of lines in the xy plane: Slope",
+            "Features of lines in the xy plane: X Intercept",
+            "Features of lines in the xy plane: Y Intercept",
+            "Converting to slope-intercept form",
+            "Slope-intercept equation from two points",
+            "Parallel & perpendicular lines from graph"
+          ]
+        },
+        {
+          "exercise": "Solving Systems of Linear Equations",
+          "concepts": [
+            "Systems of equations with substitution",
+            "System of equations with elimination",
+            "Linear systems by graphing",
+            "How to determine the number of solutions to a system of equations algebraically"
+          ]
+        },
+        {
+          "exercise": "Systems of Linear Equations Word problems",
+          "concepts": [
+            "What are systems of linear equations word problems?",
+            "How do I write systems of linear equations?",
+            "How do I solve systems of linear equations word problems?",
+            "Systems of linear equations for consistent and inconsistent Systems",
+            "Substitution and Elimination Techniques"
+          ]
+        },
+        {
+          "exercise": "Linear Inequality Word Problems",
+          "concepts": [
+            "Using inequalities to solve problems",
+            "What are some key phrases to look out for?",
+            "Translating systems of inequalities word problems",
+            "Systems of linear inequalities word problems"
+          ]
+        },
+        {
+          "exercise": "Graphs Of Linear Systems and Inequalities",
+          "concepts": [
+            "Systems of equations with graphing",
+            "Intersection points as solutions",
+            "Intro to graphing two-variable inequalities",
+            "Representing solutions with shaded areas",
+            "How do I identify the region representing a system of linear inequalities?"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "exercise": "Solving Linear Equations and Inequalities",
+          "concepts": [
+            "How do I solve linear equations?",
+            "Linear equations in one variable",
+            "Linear equations in two variables",
+            "Using linear equations to evaluate expressions",
+            "Linear inequalities that do not require reversing the inequality sign",
+            "Linear inequalities that require reversing the inequality sign",
+            "Creating an equation with no solutions",
+            "Creating an equation with infinitely many solutions",
+            "How many solutions can a linear equation have?"
+          ]
+        },
+        {
+          "exercise": "Linear Equation Word problems",
+          "concepts": [
+            "How do we translate word problems into linear equations?",
+            "Linear equations in slope-intercept form",
+            "Linear Function: Slope Intercept Form",
+            "Linear Function: Standard Form"
+          ]
+        },
+        {
+          "exercise": "Linear Relationship Word problems",
+          "concepts": [
+            "How do we translate word problems into linear equations?",
+            "Linear equations in slope-intercept form",
+            "Linear Function: Slope Intercept Form",
+            "Linear Function: Standard Form"
+          ]
+        },
+        {
+          "exercise": "Graphs Of Linear Equations And Functions",
+          "concepts": [
+            "How do I write linear equations based on slopes and points?",
+            "How do I graph systems of linear inequalities?",
+            "How do I interpret an equation in slope-intercept form?",
+            "How do I write equations of parallel and perpendicular lines?",
+            "How do I tell the features of lines from linear equations?"
+          ]
+        },
+        {
+          "exercise": "Solving Systems Of Linear Equations",
+          "concepts": [
+            "Systems of equations with substitution",
+            "System of equations with elimination",
+            "How to determine the number of solutions to a system of equations algebraically",
+            "When do I use substitution, and when do I use elimination?",
+            "Linear systems by graphing"
+          ]
+        },
+        {
+          "exercise": "Systems Of Linear Equations Word Problems",
+          "concepts": [
+            "What are systems of linear equations word problems?",
+            "How do I write systems of linear equations?",
+            "How do I solve systems of linear equations word problems?",
+            "Systems of linear equations for consistent and inconsistent Systems",
+            "Substitution and Elimination Techniques"
+          ]
+        },
+        {
+          "exercise": "Linear Inequality Word Problems",
+          "concepts": [
+            "Using inequalities to solve problems",
+            "What are some key phrases to look out for?",
+            "Translating systems of inequalities word problems",
+            "Systems of linear inequalities word problems"
+          ]
+        },
+        {
+          "exercise": "Graphs Of Linear Systems and Inequalities",
+          "concepts": [
+            "Systems of equations with graphing",
+            "Intersection points as solutions",
+            "Intro to graphing two-variable inequalities",
+            "Representing solutions with shaded areas",
+            "How do I identify the region representing a system of linear inequalities?"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "exercise": "Solving Linear Equations and Inequalities",
+          "concepts": [
+            "How to solve linear equations?",
+            "Linear equations in one variable",
+            "Linear equations in two variables",
+            "Using linear equations to evaluate expressions",
+            "Linear inequalities that do not require reversing the inequality sign",
+            "Linear inequalities that require reversing the inequality sign",
+            "Creating an equation with no solutions",
+            "Creating an equation with infinitely many solutions",
+            "How many solutions can a linear equation have?"
+          ]
+        },
+        {
+          "exercise": "Linear Equation Word problems",
+          "concepts": [
+            "How do we translate word problems into linear equations?",
+            "Linear equations in slope-intercept form",
+            "Linear Function: Slope Intercept Form",
+            "Linear Function: Standard Form"
+          ]
+        },
+        {
+          "exercise": "Linear Relationship Word problems",
+          "concepts": [
+            "How do we translate word problems into linear equations?",
+            "Linear equations in slope-intercept form",
+            "Linear Function: Slope Intercept Form",
+            "Linear Function: Standard Form"
+          ]
+        },
+        {
+          "exercise": "Graphs of Linear Equations And Functions",
+          "concepts": [
+            "How do I write linear equations based on slopes and points?",
+            "How do I graph systems of linear inequalities?",
+            "How do I interpret an equation in slope-intercept form?",
+            "How do I write equations of parallel and perpendicular lines?",
+            "How do I tell the features of lines from linear equations?"
+          ]
+        },
+        {
+          "exercise": "Solving Systems Of Linear Equations",
+          "concepts": [
+            "Systems of equations with substitution",
+            "System of equations with elimination",
+            "How to determine the number of solutions to a system of equations algebraically",
+            "When do I use substitution, and when do I use elimination?",
+            "Linear systems by graphing"
+          ]
+        },
+        {
+          "exercise": "Systems Of Linear Equations Word Problems",
+          "concepts": [
+            "What are systems of linear equations word problems?",
+            "How do I solve systems of linear equations word problems?",
+            "Systems of linear equations for consistent and inconsistent Systems",
+            "Substitution and Elimination Techniques",
+            "How do I write systems of linear equations?"
+          ]
+        },
+        {
+          "exercise": "Linear Inequality Word Problems",
+          "concepts": [
+            "Using inequalities to solve problems",
+            "What are some key phrases to look out for?",
+            "Translating systems of inequalities word problems",
+            "Systems of linear inequalities word problems"
+          ]
+        },
+        {
+          "exercise": "Graphs Of Linear Systems and Inequalities",
+          "concepts": [
+            "Systems of equations with graphing",
+            "Intersection points as solutions",
+            "Intro to graphing two-variable inequalities",
+            "Representing solutions with shaded areas",
+            "How do I identify the region representing a system of linear inequalities?"
+          ]
+        }
+      ]
+    }
+  }
+  
